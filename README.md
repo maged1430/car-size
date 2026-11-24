@@ -1,5 +1,8 @@
 # Big car or small car? ResNet-18 + CLIP
 
+https://github.com/SDAIAAcademy
+
+
 Classifies a photo of a car as **big** (SUV, pickup truck, van, minivan) or **small** (sedan, hatchback, coupe, convertible, wagon). It also uses CLIP to answer **"not a car"** for photos that aren't cars. It is tested only on **car models the network never saw during training**.
 
 Course project for *Computer Vision for Developers* (SDAIA Academy, Nov 2026). Team: **Mosaad Alrubaish** and **Majed Almutairi**
